@@ -1,11 +1,11 @@
-# 🧵 HandsMen Threads – Salesforce Internship Final Project
+# HandsMen Threads – Salesforce Internship Final Project
 
 **HandsMen Threads** is a Salesforce-based **Customer Relationship Management (CRM) system** developed as the **final internship project**.  
 The project demonstrates practical implementation of Salesforce concepts including **data modeling, automation, Apex development, and Lightning Experience customization**.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 To design and implement a scalable CRM solution that:
 - Automates core business processes
@@ -15,7 +15,7 @@ To design and implement a scalable CRM solution that:
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 - **Centralized CRM**: Unified management of Customers, Products, Orders, Inventory, and Marketing Campaigns.
 - **Automation First**: End-to-end automation using Salesforce Flows, Apex Triggers, and Batch Apex.
@@ -28,7 +28,7 @@ To design and implement a scalable CRM solution that:
 
 ---
 
-## 🧩 Modules Implemented
+## Modules Implemented
 
 - **Customer Management**
 - **Product & Inventory Management**
@@ -38,16 +38,16 @@ To design and implement a scalable CRM solution that:
 
 ---
 
-## ⚙️ Technical Implementation
+## Technical Implementation
 
-### 🔹 Salesforce Features Used
+###  Salesforce Features Used
 - Salesforce Lightning Platform
 - Custom Objects & Relationships
 - Validation Rules & Formula Fields
 - Email Templates & Workflow Automation
 - Custom Lightning App
 
-### 🔹 Apex Development
+###  Apex Development
 - Apex Triggers:
   - Order validation
   - Loyalty status updates
@@ -55,22 +55,22 @@ To design and implement a scalable CRM solution that:
   - Inventory restocking automation
   - Periodic loyalty recalculation
 
-### 🔹 Automation
+###  Automation
 - Record-Triggered Flows
 - Scheduled & Screen Flows
 - Email Alerts & Notifications
 
 ---
 
-## 🎥 Project Demo Video
+## Project Demo Video
 
 A complete walkthrough of the project implementation and functionality:
 
-🔗 **https://drive.google.com/file/d/19ZbFVSE_b4Sp-v8qO3mp1Nm1qa4R-tZO/view?usp=sharing**
+🔗 **https://www.linkedin.com/posts/shriyansh-negi-4260a7271_salesforce-crm-automation-activity-7356618600499105793-wi0w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJmK54BaQrQR58eJ4RwmkvaGC3ieR-6E7U**
 
 ---
 
-## ✅ Key Outcomes
+## Key Outcomes
 
 - Successfully automated CRM workflows reducing manual intervention
 - Improved data accuracy using validations and triggers
@@ -80,7 +80,7 @@ A complete walkthrough of the project implementation and functionality:
 
 ---
 
-## 🛠️ Deployment Details
+## Deployment Details
 
 - Platform: Salesforce Lightning Experience
 - Environment: Developer Org / Sandbox
@@ -88,7 +88,7 @@ A complete walkthrough of the project implementation and functionality:
 
 ---
 
-## 📌 Internship Details
+## Internship Details
 
 - **Project Type**: Salesforce Internship Final Project  
 - **Domain**: CRM & Business Process Automation  
@@ -96,13 +96,13 @@ A complete walkthrough of the project implementation and functionality:
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **Shriyansh Negi**  
 Salesforce Intern | CRM Automation | Apex & Lightning Development
 
 ---
 
-## 📄 Declaration
+## Declaration
 
 This project is developed as part of a **Salesforce Internship Program** and is intended for **educational and evaluation purposes**.
